@@ -6,3 +6,5 @@ In send Redirect whenever the client makes any request it goes to the container,
 In this example we are going to make one html in which we will submit the user name and his password. The controller will check if the password entered by the user is correct or not. If the password entered by the user is correct then the servlet will redirect the request to the other servlet which will handle the request. If the password entered by the user is wrong then the request will be forwarded to the html form.
 
 
+![2](https://cloud.githubusercontent.com/assets/16952223/13035061/34c11cc6-d36c-11e5-94cf-f80f1d6b7d9c.JPG)
+![capture](https://cloud.githubusercontent.com/assets/16952223/13035063/3db49a4c-d36c-11e5-98c5-c478b3327948.JPG)
