@@ -3,3 +3,5 @@
 
 
 3.6 Consider Bank Table with attributes AccountNo, Customer Name, Balance, Phone and Address. Write a JDBC Program which allows insertion, updation and deletion of record in Bank Table. Print values of all customers whose balance is greater then specified amount. (Hint: program should be menu driven).
+![sql6](https://cloud.githubusercontent.com/assets/16952537/13056535/76ff55e2-d472-11e5-838f-53d5a727c27e.png)
+![e6_p](https://cloud.githubusercontent.com/assets/16952537/13056543/81f27826-d472-11e5-9d4f-f608a9dcd985.png)
