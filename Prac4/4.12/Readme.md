@@ -4,4 +4,5 @@
 In this program we are going to make one program on servlet which will keep on updating the time in every second and the result will be displayed to you.
 To make this servlet firstly we need to make a class named TimeUpdater.  The name of the class should be such that it becomes easy to understand what the program is going to do. Call the method getWriter() method of the response object which will return a PrintWriter object. Use the method getHeader() of the response object to add a new header. We can also use setHeader() in place of getHeader(). The setHeader() method overrides the previous set header. Now by using the PrintWriter object display the result on the browser.
 
+![untitled](https://cloud.githubusercontent.com/assets/16952537/13046416/3697343a-d435-11e5-981d-bf7d9b5f3e2e.png)
 
